@@ -1,0 +1,368 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\2CRUDinCoreTask-13-11-24\\EmployeeManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC412131-99BC-47ED-BE77-1A0EE6BD67AB}|EmployeeManagementSystem.csproj|c:\\users\\user\\desktop\\2crudincoretask-13-11-24\\employeemanagementsystem\\service\\emsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC412131-99BC-47ED-BE77-1A0EE6BD67AB}|EmployeeManagementSystem.csproj|solutionrelative:service\\emsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC412131-99BC-47ED-BE77-1A0EE6BD67AB}|EmployeeManagementSystem.csproj|c:\\users\\user\\desktop\\2crudincoretask-13-11-24\\employeemanagementsystem\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC412131-99BC-47ED-BE77-1A0EE6BD67AB}|EmployeeManagementSystem.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC412131-99BC-47ED-BE77-1A0EE6BD67AB}|EmployeeManagementSystem.csproj|c:\\users\\user\\desktop\\2crudincoretask-13-11-24\\employeemanagementsystem\\controllers\\salarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC412131-99BC-47ED-BE77-1A0EE6BD67AB}|EmployeeManagementSystem.csproj|solutionrelative:controllers\\salarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC412131-99BC-47ED-BE77-1A0EE6BD67AB}|EmployeeManagementSystem.csproj|c:\\users\\user\\desktop\\2crudincoretask-13-11-24\\employeemanagementsystem\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC412131-99BC-47ED-BE77-1A0EE6BD67AB}|EmployeeManagementSystem.csproj|solutionrelative:controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC412131-99BC-47ED-BE77-1A0EE6BD67AB}|EmployeeManagementSystem.csproj|c:\\users\\user\\desktop\\2crudincoretask-13-11-24\\employeemanagementsystem\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC412131-99BC-47ED-BE77-1A0EE6BD67AB}|EmployeeManagementSystem.csproj|solutionrelative:controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC412131-99BC-47ED-BE77-1A0EE6BD67AB}|EmployeeManagementSystem.csproj|c:\\users\\user\\desktop\\2crudincoretask-13-11-24\\employeemanagementsystem\\controllers\\designationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC412131-99BC-47ED-BE77-1A0EE6BD67AB}|EmployeeManagementSystem.csproj|solutionrelative:controllers\\designationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC412131-99BC-47ED-BE77-1A0EE6BD67AB}|EmployeeManagementSystem.csproj|c:\\users\\user\\desktop\\2crudincoretask-13-11-24\\employeemanagementsystem\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC412131-99BC-47ED-BE77-1A0EE6BD67AB}|EmployeeManagementSystem.csproj|solutionrelative:controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC412131-99BC-47ED-BE77-1A0EE6BD67AB}|EmployeeManagementSystem.csproj|c:\\users\\user\\desktop\\2crudincoretask-13-11-24\\employeemanagementsystem\\requestresponse\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC412131-99BC-47ED-BE77-1A0EE6BD67AB}|EmployeeManagementSystem.csproj|solutionrelative:requestresponse\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC412131-99BC-47ED-BE77-1A0EE6BD67AB}|EmployeeManagementSystem.csproj|c:\\users\\user\\desktop\\2crudincoretask-13-11-24\\employeemanagementsystem\\service\\iemsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC412131-99BC-47ED-BE77-1A0EE6BD67AB}|EmployeeManagementSystem.csproj|solutionrelative:service\\iemsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC412131-99BC-47ED-BE77-1A0EE6BD67AB}|EmployeeManagementSystem.csproj|c:\\users\\user\\desktop\\2crudincoretask-13-11-24\\employeemanagementsystem\\models\\departmententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC412131-99BC-47ED-BE77-1A0EE6BD67AB}|EmployeeManagementSystem.csproj|solutionrelative:models\\departmententity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC412131-99BC-47ED-BE77-1A0EE6BD67AB}|EmployeeManagementSystem.csproj|c:\\users\\user\\desktop\\2crudincoretask-13-11-24\\employeemanagementsystem\\models\\salaryentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC412131-99BC-47ED-BE77-1A0EE6BD67AB}|EmployeeManagementSystem.csproj|solutionrelative:models\\salaryentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC412131-99BC-47ED-BE77-1A0EE6BD67AB}|EmployeeManagementSystem.csproj|c:\\users\\user\\desktop\\2crudincoretask-13-11-24\\employeemanagementsystem\\models\\designationentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC412131-99BC-47ED-BE77-1A0EE6BD67AB}|EmployeeManagementSystem.csproj|solutionrelative:models\\designationentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC412131-99BC-47ED-BE77-1A0EE6BD67AB}|EmployeeManagementSystem.csproj|c:\\users\\user\\desktop\\2crudincoretask-13-11-24\\employeemanagementsystem\\models\\projectentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC412131-99BC-47ED-BE77-1A0EE6BD67AB}|EmployeeManagementSystem.csproj|solutionrelative:models\\projectentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC412131-99BC-47ED-BE77-1A0EE6BD67AB}|EmployeeManagementSystem.csproj|c:\\users\\user\\desktop\\2crudincoretask-13-11-24\\employeemanagementsystem\\models\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC412131-99BC-47ED-BE77-1A0EE6BD67AB}|EmployeeManagementSystem.csproj|solutionrelative:models\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC412131-99BC-47ED-BE77-1A0EE6BD67AB}|EmployeeManagementSystem.csproj|c:\\users\\user\\desktop\\2crudincoretask-13-11-24\\employeemanagementsystem\\models\\roleentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC412131-99BC-47ED-BE77-1A0EE6BD67AB}|EmployeeManagementSystem.csproj|solutionrelative:models\\roleentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC412131-99BC-47ED-BE77-1A0EE6BD67AB}|EmployeeManagementSystem.csproj|c:\\users\\user\\desktop\\2crudincoretask-13-11-24\\employeemanagementsystem\\context\\emscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC412131-99BC-47ED-BE77-1A0EE6BD67AB}|EmployeeManagementSystem.csproj|solutionrelative:context\\emscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC412131-99BC-47ED-BE77-1A0EE6BD67AB}|EmployeeManagementSystem.csproj|c:\\users\\user\\desktop\\2crudincoretask-13-11-24\\employeemanagementsystem\\employeemanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DC412131-99BC-47ED-BE77-1A0EE6BD67AB}|EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC412131-99BC-47ED-BE77-1A0EE6BD67AB}|EmployeeManagementSystem.csproj|c:\\users\\user\\desktop\\2crudincoretask-13-11-24\\employeemanagementsystem\\migrations\\20241114140726_amountchanges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC412131-99BC-47ED-BE77-1A0EE6BD67AB}|EmployeeManagementSystem.csproj|solutionrelative:migrations\\20241114140726_amountchanges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC412131-99BC-47ED-BE77-1A0EE6BD67AB}|EmployeeManagementSystem.csproj|c:\\users\\user\\desktop\\2crudincoretask-13-11-24\\employeemanagementsystem\\migrations\\20241114131225_fieldtypechanges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC412131-99BC-47ED-BE77-1A0EE6BD67AB}|EmployeeManagementSystem.csproj|solutionrelative:migrations\\20241114131225_fieldtypechanges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC412131-99BC-47ED-BE77-1A0EE6BD67AB}|EmployeeManagementSystem.csproj|c:\\users\\user\\desktop\\2crudincoretask-13-11-24\\employeemanagementsystem\\migrations\\20241114113359_fieldtypechange1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC412131-99BC-47ED-BE77-1A0EE6BD67AB}|EmployeeManagementSystem.csproj|solutionrelative:migrations\\20241114113359_fieldtypechange1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC412131-99BC-47ED-BE77-1A0EE6BD67AB}|EmployeeManagementSystem.csproj|c:\\users\\user\\desktop\\2crudincoretask-13-11-24\\employeemanagementsystem\\migrations\\20241114093805_third.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC412131-99BC-47ED-BE77-1A0EE6BD67AB}|EmployeeManagementSystem.csproj|solutionrelative:migrations\\20241114093805_third.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\2CRUDinCoreTask-13-11-24\\EmployeeManagementSystem\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\2CRUDinCoreTask-13-11-24\\EmployeeManagementSystem\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T11:43:42.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DesignationController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\2CRUDinCoreTask-13-11-24\\EmployeeManagementSystem\\Controllers\\DesignationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DesignationController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\2CRUDinCoreTask-13-11-24\\EmployeeManagementSystem\\Controllers\\DesignationController.cs",
+              "RelativeToolTip": "Controllers\\DesignationController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwDcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T12:58:23.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProjectController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\2CRUDinCoreTask-13-11-24\\EmployeeManagementSystem\\Controllers\\ProjectController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProjectController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\2CRUDinCoreTask-13-11-24\\EmployeeManagementSystem\\Controllers\\ProjectController.cs",
+              "RelativeToolTip": "Controllers\\ProjectController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwDcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T10:27:33.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\2CRUDinCoreTask-13-11-24\\EmployeeManagementSystem\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RoleController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\2CRUDinCoreTask-13-11-24\\EmployeeManagementSystem\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "Controllers\\RoleController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwDgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T10:27:47.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SalaryController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\2CRUDinCoreTask-13-11-24\\EmployeeManagementSystem\\Controllers\\SalaryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SalaryController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\2CRUDinCoreTask-13-11-24\\EmployeeManagementSystem\\Controllers\\SalaryController.cs",
+              "RelativeToolTip": "Controllers\\SalaryController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwDcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T12:58:35.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\2CRUDinCoreTask-13-11-24\\EmployeeManagementSystem\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\2CRUDinCoreTask-13-11-24\\EmployeeManagementSystem\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwCYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:03:40.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\2CRUDinCoreTask-13-11-24\\EmployeeManagementSystem\\RequestResponse\\Response.cs",
+              "RelativeDocumentMoniker": "RequestResponse\\Response.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\2CRUDinCoreTask-13-11-24\\EmployeeManagementSystem\\RequestResponse\\Response.cs",
+              "RelativeToolTip": "RequestResponse\\Response.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAywDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T08:39:38.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EMSService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\2CRUDinCoreTask-13-11-24\\EmployeeManagementSystem\\Service\\EMSService.cs",
+              "RelativeDocumentMoniker": "Service\\EMSService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\2CRUDinCoreTask-13-11-24\\EmployeeManagementSystem\\Service\\EMSService.cs",
+              "RelativeToolTip": "Service\\EMSService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJYBAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T08:44:34.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IEMSService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\2CRUDinCoreTask-13-11-24\\EmployeeManagementSystem\\Service\\IEMSService.cs",
+              "RelativeDocumentMoniker": "Service\\IEMSService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\2CRUDinCoreTask-13-11-24\\EmployeeManagementSystem\\Service\\IEMSService.cs",
+              "RelativeToolTip": "Service\\IEMSService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T08:44:17.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DepartmentEntity.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\2CRUDinCoreTask-13-11-24\\EmployeeManagementSystem\\Models\\DepartmentEntity.cs",
+              "RelativeDocumentMoniker": "Models\\DepartmentEntity.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\2CRUDinCoreTask-13-11-24\\EmployeeManagementSystem\\Models\\DepartmentEntity.cs",
+              "RelativeToolTip": "Models\\DepartmentEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:16:05.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20241114140726_AmountChanges.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\2CRUDinCoreTask-13-11-24\\EmployeeManagementSystem\\Migrations\\20241114140726_AmountChanges.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241114140726_AmountChanges.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\2CRUDinCoreTask-13-11-24\\EmployeeManagementSystem\\Migrations\\20241114140726_AmountChanges.cs",
+              "RelativeToolTip": "Migrations\\20241114140726_AmountChanges.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T14:07:26.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SalaryEntity.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\2CRUDinCoreTask-13-11-24\\EmployeeManagementSystem\\Models\\SalaryEntity.cs",
+              "RelativeDocumentMoniker": "Models\\SalaryEntity.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\2CRUDinCoreTask-13-11-24\\EmployeeManagementSystem\\Models\\SalaryEntity.cs",
+              "RelativeToolTip": "Models\\SalaryEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:17:32.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DesignationEntity.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\2CRUDinCoreTask-13-11-24\\EmployeeManagementSystem\\Models\\DesignationEntity.cs",
+              "RelativeDocumentMoniker": "Models\\DesignationEntity.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\2CRUDinCoreTask-13-11-24\\EmployeeManagementSystem\\Models\\DesignationEntity.cs",
+              "RelativeToolTip": "Models\\DesignationEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:16:49.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProjectEntity.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\2CRUDinCoreTask-13-11-24\\EmployeeManagementSystem\\Models\\ProjectEntity.cs",
+              "RelativeDocumentMoniker": "Models\\ProjectEntity.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\2CRUDinCoreTask-13-11-24\\EmployeeManagementSystem\\Models\\ProjectEntity.cs",
+              "RelativeToolTip": "Models\\ProjectEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:17:07.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RoleEntity.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\2CRUDinCoreTask-13-11-24\\EmployeeManagementSystem\\Models\\RoleEntity.cs",
+              "RelativeDocumentMoniker": "Models\\RoleEntity.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\2CRUDinCoreTask-13-11-24\\EmployeeManagementSystem\\Models\\RoleEntity.cs",
+              "RelativeToolTip": "Models\\RoleEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:17:17.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserEntity.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\2CRUDinCoreTask-13-11-24\\EmployeeManagementSystem\\Models\\UserEntity.cs",
+              "RelativeDocumentMoniker": "Models\\UserEntity.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\2CRUDinCoreTask-13-11-24\\EmployeeManagementSystem\\Models\\UserEntity.cs",
+              "RelativeToolTip": "Models\\UserEntity.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T07:30:52.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20241114131225_FieldtypeChanges.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\2CRUDinCoreTask-13-11-24\\EmployeeManagementSystem\\Migrations\\20241114131225_FieldtypeChanges.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241114131225_FieldtypeChanges.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\2CRUDinCoreTask-13-11-24\\EmployeeManagementSystem\\Migrations\\20241114131225_FieldtypeChanges.cs",
+              "RelativeToolTip": "Migrations\\20241114131225_FieldtypeChanges.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T13:12:25.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20241114113359_FieldtypeChange1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\2CRUDinCoreTask-13-11-24\\EmployeeManagementSystem\\Migrations\\20241114113359_FieldtypeChange1.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241114113359_FieldtypeChange1.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\2CRUDinCoreTask-13-11-24\\EmployeeManagementSystem\\Migrations\\20241114113359_FieldtypeChange1.cs",
+              "RelativeToolTip": "Migrations\\20241114113359_FieldtypeChange1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T11:33:59.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20241114093805_Third.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\2CRUDinCoreTask-13-11-24\\EmployeeManagementSystem\\Migrations\\20241114093805_Third.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241114093805_Third.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\2CRUDinCoreTask-13-11-24\\EmployeeManagementSystem\\Migrations\\20241114093805_Third.cs",
+              "RelativeToolTip": "Migrations\\20241114093805_Third.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:38:05.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EMSContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\2CRUDinCoreTask-13-11-24\\EmployeeManagementSystem\\Context\\EMSContext.cs",
+              "RelativeDocumentMoniker": "Context\\EMSContext.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\2CRUDinCoreTask-13-11-24\\EmployeeManagementSystem\\Context\\EMSContext.cs",
+              "RelativeToolTip": "Context\\EMSContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T08:35:03.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EmployeeManagementSystem.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\2CRUDinCoreTask-13-11-24\\EmployeeManagementSystem\\EmployeeManagementSystem.csproj",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem.csproj",
+              "ToolTip": "C:\\Users\\user\\Desktop\\2CRUDinCoreTask-13-11-24\\EmployeeManagementSystem\\EmployeeManagementSystem.csproj",
+              "RelativeToolTip": "EmployeeManagementSystem.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-14T08:06:48.309Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
